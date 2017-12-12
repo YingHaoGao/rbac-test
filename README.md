@@ -13,7 +13,7 @@ RBAC权限控制演示
 ===============
 * [Python RBAC 看了视频同学自己实现的](https://github.com/gaoyaxing24/RBAC)
 
-快速运行项目步骤（有疑问可以加入QQ交流群：325264502）
+快速运行项目步骤
 ================
 * 下载地址
     * Bootstrap：http://d.bootcss.com/bootstrap-3.3.0-dist.zip
@@ -40,6 +40,3 @@ RBAC权限控制演示
 * [【RBAC】打造Web权限控制系统](http://www.54php.cn/default/42.html)
 * [Yii2中文社区](http://www.yiichina.com/doc/guide/2.0/intro-yii)
 
-支持一下呗
-====================
-* ![微信公众号](http://cdn.static.54php.cn/images/weixin/coderonin.jpg?imageView/2/w/300)
